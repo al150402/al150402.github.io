@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(134, 29, 29);
+}
+
+h1 {
+    text-align:center;
+    color: beige;
+    font-family:'Franklin Gothic Medium'"
+}
+h2{
+    color: black;
+    text-align: center
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+#news{
+    color: papayawhip;
+    font-size: 290%;
+    text-align: center;
+}
+#heroe{
+    color: bisque;
+    text-align: center;
+
+}
+pre{
+    color: cornsilk;
+    font-size: 150%;
+    text-align: center;
+}
