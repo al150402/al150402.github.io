@@ -49,3 +49,21 @@ pre{
     font-size: 150%;
     text-align: center;
 }
+pre a{
+    color: rgb(219, 209, 209);
+    font-family: 'Franklin Gothic Medium';
+}
+#movies{
+    color: cornsilk;
+    text-align: center;
+}
+#Pre1{
+    color: cornsilk;
+    text-align: center;
+    font-size: 150%;
+}
+#hola{
+    color: cornsilk;
+    text-align: center;
+    font-size: 150%;
+}
