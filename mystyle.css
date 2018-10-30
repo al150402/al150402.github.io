@@ -1,5 +1,6 @@
 body {
     background-color: rgb(134, 29, 29);
+
 }
 
 h1 {
@@ -66,4 +67,12 @@ pre a{
     color: cornsilk;
     text-align: center;
     font-size: 150%;
+}
+ul{
+    background-color: rgb(134, 29, 29);
+    
+}
+li a{
+   font-size: 140%;
+   margin-right: 80px;
 }
