@@ -12,7 +12,7 @@ body {
 h1 {
     text-align:center;
     color: beige;
-    font-family:'Franklin Gothic Medium'"
+    font-family:'Franklin Gothic Medium';
 }
 h2{
     color: black;
@@ -23,7 +23,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: rgb(248, 248, 248);
 }
 
 li {
@@ -32,14 +32,15 @@ li {
 
 li a {
     display: block;
-    color: white;
+    color:rgba(43, 39, 39, 0.822);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-family:'Gill Sans', 'Gill Sans MT''Trebuchet MS', sans-serif;
 }
 
 li a:hover {
-    background-color: #111;
+    background-color: rgb(223, 215, 215);
 }
 #news{
     color: papayawhip;
@@ -103,7 +104,7 @@ li a{
 	padding: 0;
 	width: 400%;
 	
-	animation: cambio 20s infinite alternate linear;
+	animation: cambio 10s infinite alternate linear;
 }
 
 .slider li {
