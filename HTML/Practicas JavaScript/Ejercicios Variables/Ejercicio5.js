@@ -1,0 +1,1 @@
+var firstName= "Guadalupe",lastName = "Ramos",age = 25;
